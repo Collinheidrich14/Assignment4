@@ -30,7 +30,7 @@ public class program4 {
 	}
 
 	/*
-	 * 
+	 * User prompt to simualate miniumum counters for county and state
 	 */
 	private static void executeProgram() {
 //		String[] answers = promptUserForCriterions();
