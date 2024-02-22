@@ -9,6 +9,13 @@ AccidentPack reads accident data from a CSV file named "accidents.csv" and simul
 
 java
 Copy code
+public static void main(String[] args) {
+		executeProgram();
+	}
+
+	/*
+	 * User prompt to simualate miniumum counters for county and state
+	 */
 	private static void executeProgram() {
 //		String[] answers = promptUserForCriterions();
 		String[] answers = new String[] { "Los Angeles", "CA" };
@@ -29,7 +36,6 @@ Copy code
 		calculateMinCounters(delawareFiltered, answers4[0], answers4[1]);
 
 	}
-
 Task Division:
 Collin did task 1, 2, and part of 3. I got help from Jesse on writing the main code of task3
 Jesse did the meat of task 3 with me over a zoom, documentation, pdf, and time calculations, and submission
