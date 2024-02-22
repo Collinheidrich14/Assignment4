@@ -14,6 +14,12 @@ import java.util.List;
 import java.util.Queue;
 import java.util.Scanner;
 import java.util.stream.Collectors;
+/**
+ * This java class reads the accident csv file and puts the data into an arraylist. The arraylist is then processed through a queue to count how many counters are needed. 
+*  Some sources I used where https://www.youtube.com/watch?v=91CMnJeHJVc, https://www.youtube.com/watch?v=-Aud0cDh-J8, https://www.youtube.com/watch?v=70qy6_gw1Hc, https://www.youtube.com/watch?v=VX9CwPn-BBE and using chatgpt for basic things to save time.
+* @author Collin Heidrich, Jesse Cyrbrophy
+* @version Febuary 15 2021
+*/
 
 public class program4 {
 	private static final String READABLE_DATETIME_FORMAT = "MM-dd-yyyy H:mm:ss";
