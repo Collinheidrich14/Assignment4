@@ -39,7 +39,10 @@ public static void main(String[] args) {
 Task Division:
 Collin did task 1, 2, and part of 3. I got help from Jesse on writing the main code of task3
 Jesse did the meat of task 3 with me over a zoom, documentation, pdf, and time calculations, and submission
-
+Colin wrote executeProcessingTime and getTimeBasedOnSeverity
+Jesse wrote calculateMinCounters, the dateFormatters and the user input methods. 
+The readCSVAndSort,filterReportsBy, executeProgram and main method was a team effort
+to help the code run. 
 Contributors
 Collin Heidrich - team manager
 Jesse Cyrbrophy - Coder, Documentator, debugger
